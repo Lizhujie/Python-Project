@@ -10,5 +10,6 @@ This is the data of 17007 strategy games on the Apple App Store. It was collecte
     4.Model Optimization and ensemble(RandomForest, GradientBoosting, Xgboost), Final stacking
     5.Prediction and Compare different means
 ## Conclusion
-        Based on the Game information to predict is this game can make a success. It can give the rate of game and estimate whether the game is a great game.
-        Although because of so many empty values of the most important part, the accuracy is not perfect, the model can do a acceptable prediction. 
+Based on the Game information to predict is this game can make a success. It can give the rate of game and estimate whether the game is a great game.
+
+Although because of so many empty values of the most important part, the accuracy is not perfect, the model can do a acceptable prediction. 
